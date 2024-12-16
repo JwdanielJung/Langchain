@@ -1,0 +1,11 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1,0,3,Carla Pugh,female,35.1,3,3,tPF6489,68.4233,B4,S
+2,1,3,Debra Gallegos,female,24.0,0,0,Ajt8209,44.0152,E191,Q
+3,0,3,Casey Yang,female,49.3,2,3,Jyi8775,12.2038,B44,S
+4,0,3,Thomas Thompson,female,12.0,0,1,FtC6007,49.5177,B190,S
+5,0,1,Anthony Mendoza,male,24.1,2,1,IaB9460,3.4389,D14,S
+6,1,3,Margaret Barry,male,29.9,2,1,Zgw0917,90.932,D190,Q
+7,0,2,Joshua Matthews,female,37.0,0,0,ITx3748,25.878,E82,S
+8,0,1,Brandon Phillips,female,63.0,0,1,SyF7440,66.2522,E24,S
+9,0,2,Audrey Hendrix,female,16.8,2,0,woP7033,31.1711,B188,Q
+10,1,2,Alyssa Underwood,male,41.6,1,1,DKo3164,52.0068,D41,Q
